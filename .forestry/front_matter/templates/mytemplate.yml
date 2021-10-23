@@ -8,12 +8,16 @@ fields:
 - type: datetime
   name: date
   label: date
+  config:
+    required: true
+  default: now
 - type: text
   name: slug
   label: slug
 - type: text
   name: type
   label: type
+  default: post
 - type: list
   name: tags
   label: tags
