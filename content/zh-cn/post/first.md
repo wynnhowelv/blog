@@ -7,7 +7,6 @@ tags:
 - first
 categories:
 - first
-draft: true
 
 ---
 first
