@@ -1,16 +1,14 @@
 ---
-title: "First"
-date: 2021-10-24T01:39:15+08:00
-slug: ""
+title: First
+date: 2021-10-24T01:39:15.000+08:00
+slug: ''
 type: post
 tags:
-  - first
+- first
 categories:
-  - first
+- first
+
 ---
-
-
-
 first 
 
 /Users/whlv/GithubDesk/ClouderBlog/content/zh-cn/post/first.md created
@@ -24,5 +22,3 @@ Serving pages from memory
 Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
 Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 Press Ctrl+C to stop
-
-
