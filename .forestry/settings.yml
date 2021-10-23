@@ -5,18 +5,13 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: content/zh-cn/post
-  label: Post
-  create: all
-  match: "**/*"
-- type: directory
-  path: content
+  path: content/zh-cn/page
   label: Pages
   create: all
   match: "**/*"
 - type: directory
-  path: content/zh-cn
-  label: Zh cn
+  path: content/zh-cn/post
+  label: Posts
   create: all
   match: "**/*"
 upload_dir: static/uploads
